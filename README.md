@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santosh-sarkar
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning csit
+- 🌱 I’m currently persuing Bachelor degree in csit
 - 💞️ I’m looking to collaborate on ##########
 - 📫 How to reach me: insta id= sarkar.santosh_
 - ⚡ Fun fact: 0000001
