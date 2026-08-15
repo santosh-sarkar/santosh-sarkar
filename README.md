@@ -9,7 +9,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media.discordapp.net/attachments/1211647085670047756/1538185078784528525/Screenshot_2026-01-19-20-31-17-369_com.zhiliaoapp.musically.png?ex=6a81c1fc&is=6a80707c&hm=694372e81a73b8e5d44e39376dde0f009300e3ee66f540cac3b14960186a4741&=&format=webp&quality=lossless&width=472&height=768"  />
+<img data-importer="image" align="right" height="150" src="./cat.gif"  />
 
 ###
 
